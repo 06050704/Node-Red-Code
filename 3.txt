@@ -1,0 +1,1 @@
+[{"id":"cd4e739c.e2795","type":"function","z":"b7e39abd.6a3e08","name":"","func":"msg.headers={\n    deviceKey: \"B1IQFih0gmeStOdF\"\n};\nmsg.payload=\"Temperature,,28\";\nreturn msg;","outputs":1,"noerr":0,"x":310,"y":140,"wires":[["7a35cdfc.0119e4"]]}]
